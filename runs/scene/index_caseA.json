@@ -1,0 +1,7 @@
+{
+  "case": "caseA",
+  "asset": "scene",
+  "items": [
+    { "tile_id": "fullscene", "path": "data/baseline/caseA_scene_2k10k_12in16.tif" }
+  ]
+}

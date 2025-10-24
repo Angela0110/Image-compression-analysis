@@ -1,0 +1,11 @@
+{
+  "case": "caseB",
+  "asset": "scene",
+  "items": [
+    {
+      "tile_id": "fullscene",
+      "path": "data/baseline/DT0000156472_scene_180b_14in16.tif",
+      "mask": "data/baseline/DT0000156472_scene_mask_uint8.tif"
+    }
+  ]
+}

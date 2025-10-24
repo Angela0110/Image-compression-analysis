@@ -1,0 +1,10 @@
+{
+  "case": "caseB",
+  "asset": "tile_512",
+  "items": [
+    {"tile_id": "LC", "path": "data/baseline/DT0000156472_tile_LC_512_14in16bit.tif",
+     "mask": "data/baseline/DT0000156472_tile_LC_512_mask.tif"},
+    {"tile_id": "HC", "path": "data/baseline/DT0000156472_tile_HC_512_14in16bit.tif",
+     "mask": "data/baseline/DT0000156472_tile_HC_512_mask.tif"}
+  ]
+}
